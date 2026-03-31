@@ -41,35 +41,35 @@ This project is an audit of VLC Media Player focusing on:
 ###  Script 1 — System Information
 
 **Output:**
-![Script 1](screenshots/script1_output.png)
+![Script 1](Screenshots/script1_output.png)
 
 ---
 
 ###  Script 2 — Package Checker
 
 **Output:**
-![Script 2](screenshots/script2_output.png)
+![Script 2](Screenshots/script2_output.png)
 
 ---
 
 ###  Script 3 — Directory Audit
 
 **Output:**
-![Script 3](screenshots/script3_output.png)
+![Script 3](Screenshots/script3_output.png)
 
 ---
 
 ###  Script 4 — Log Analyzer
 
 **Output:**
-![Script 4](screenshots/script4_output.png)
+![Script 4](Screenshots/script4_output.png)
 
 ---
 
 ###  Script 5 — Manifesto Generator
 
 **Output:**
-![Script 5](screenshots/script5_output.png)
+![Script 5](Screenshots/script5_output.png)
 
 ---
 
