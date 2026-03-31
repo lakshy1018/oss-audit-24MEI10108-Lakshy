@@ -1,0 +1,7 @@
+
+Open Source Manifesto
+Date: 31 March 2026
+
+I use VLC as part of my daily workflow, and it represents the idea of control in software.
+I believe knowledge should be shared openly, and I would contribute by building AI-based learning Platform for the community.
+Open source empowers individuals and creates a collaborative future.
