@@ -10,6 +10,7 @@
 |------|--------|
 | Name | Lakshy Jain |
 | Reg No. | 24MEI10108 |
+| Slot. | F11 |
 
 ---
 
